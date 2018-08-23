@@ -1,0 +1,32 @@
+PODS:
+  - GCDWebServer (3.4.2):
+    - GCDWebServer/Core (= 3.4.2)
+  - GCDWebServer/Core (3.4.2)
+  - Sentry (4.0.1):
+    - Sentry/Core (= 4.0.1)
+  - Sentry/Core (4.0.1)
+  - Starscream (3.0.5)
+  - StreamrootSDK (3.2.1):
+    - GCDWebServer (= 3.4.2)
+    - Sentry (= 4.0.1)
+    - Starscream (= 3.0.5)
+
+DEPENDENCIES:
+  - StreamrootSDK (~> 3.2.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GCDWebServer
+    - Sentry
+    - Starscream
+    - StreamrootSDK
+
+SPEC CHECKSUMS:
+  GCDWebServer: 8d67ee9f634b4bb91eb4b8aee440318a5fc6debd
+  Sentry: a38f7879924c02239e121b19d993d23bdd1684db
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+  StreamrootSDK: e3ab91565574c65ccdc67af99f8f1b2b8ab0065c
+
+PODFILE CHECKSUM: 18405b2fad9e83919c4734a82bcca19f948c6d4b
+
+COCOAPODS: 1.5.3

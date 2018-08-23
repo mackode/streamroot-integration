@@ -1,0 +1,1 @@
+../../../../StreamrootSDK/Carthage/Build/iOS/StreamrootSDK.framework/Headers/private_imports.h
